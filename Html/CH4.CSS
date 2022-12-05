@@ -1,0 +1,27 @@
+button{
+    background-color: black;
+    color: brown;
+}
+.FIRST{
+    height: 100px;
+    width: auto;
+    background-color: black;
+    color: brown;
+    font-display: 100px;
+    display: flexbox;
+}
+.SECOND{
+    background-color: tomato;
+    height: 110px;
+}
+#RAHUL{
+    DISPLAY: MIDDLE;
+    height: 90px;
+    width: 10px;
+    font-size: large;
+    font-style: italic;
+    background-color: black;
+    color: blue;
+    display: contents;
+    content: initial;
+}

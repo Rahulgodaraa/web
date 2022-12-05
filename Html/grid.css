@@ -1,0 +1,24 @@
+header{
+    
+    background-color: yellow;
+}
+
+.container{
+    display: grid;
+    /* border: 2px solid red; */
+    grid-row: 100px;
+    grid-column: 100px;
+    grid-template-columns: 100px 500px auto;
+    row-gap: 100px;
+    /* gap: 10px 50px 10px; */
+    height: 1000px;
+    /* grid-template-columns: 10px 10px; */
+    grid-gap: 5px 500px auto;
+    column-gap: 10px 500px auto;
+}
+.item{
+    display: grid;
+    border: 2px solid red;
+    grid-template-columns: 100px 500px 100px;
+}
+ 

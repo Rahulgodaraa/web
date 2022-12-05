@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: bisque;
+    color: black;
+    height: 49px;
+    width: 100%;
+    font-size: 44px;
+    text-align: center;
+    
+
+
+}
+
+.container{
+    background-color: aquamarine;
+    color: black;
+    height: 50vh;
+    width: 50vw;
+    position: center;
+    font-size: medium;
+    
+}
+.box{
+    
+}
+
+footer{
+    background-position: 100px;
+}

@@ -1,0 +1,37 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+
+ }
+
+ body{
+    /* background-image: url(static/download.jpg); */
+    /* background-color: rgb(1, 4, 10); */
+    background-size: 100%;
+    align-items: center;
+   text-align: center;
+   display: flex;
+ }
+ h1{
+    color: antiquewhite;
+    font-size: 20px;
+    font-weight: bold;
+    /* padding: 111px 600 100; */
+    margin-left: 45vh;
+   margin-left: 50vw;
+   margin-top: 100px;
+    
+   
+ }
+ .Rahul{
+   background-color: black;
+   /* color: rgb(234, 231, 225); */
+    margin-left: 45vh;
+   margin-left: 50vw;
+   margin-top: 40px;
+   align-items: center;
+   text-align: center;
+   /* border: 10px solid red; */
+    
+    /* padding: 111px 600 100; */
+ }
