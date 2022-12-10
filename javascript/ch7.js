@@ -5,5 +5,5 @@ function greet(name){
 
 let name = 'RAhul'
  
-greetings;
+greet();
  
