@@ -11,9 +11,11 @@
 }
 
 .footer {
-    background-color: antiquewhite;
+    background-color: #9575cd;
+    /* background-color: rgb(160, 96, 142); */
     margin: 0px;
     padding: 20px 0px 20px 0px;
+    /* column-gap: 50%; */
 }
 
 .jumbotron {
