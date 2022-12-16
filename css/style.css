@@ -11,7 +11,7 @@
 }
 
 .footer {
-    background-color: #9575cd;
+    background-color: #a288cf;
     /* background-color: rgb(160, 96, 142); */
     margin: 0px;
     padding: 20px 0px 20px 0px;
@@ -37,5 +37,5 @@ body {
 }
 
 .navbar-dark {
-    background-color: #512DA8;
+    background-color: #591f69;
 }
